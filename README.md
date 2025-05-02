@@ -1,5 +1,7 @@
 # SWEGrapher
-This is a a MLP for predicting SWE based on SNOTEL data, courtesy of Liza Gunther and Kevin Lane!  You can programmatically generate a .csv file of relevent SNOTEL data based on our snotel_download_data notebook.
+This is a a MLP for predicting SWE based on SNOTEL data, courtesy of Liza Gunther and Kevin Lane!  
+
+You can programmatically generate a .csv file of relevent SNOTEL data based on our snotel_download_data notebook.
 
 The snotel-mlp(4) r2 > 0.95 notebook contains our code for an initial vanilla mlp, and should serve as a good starting point for understanding the data.
 
